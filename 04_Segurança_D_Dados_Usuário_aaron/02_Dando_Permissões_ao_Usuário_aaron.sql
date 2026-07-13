@@ -1,0 +1,1 @@
+Grant create session,create table to aaron

@@ -1,0 +1,1 @@
+select username, account_status, lock_date, expiry_Date, default_tablespace, profile from dba_users where username = 'PETER';

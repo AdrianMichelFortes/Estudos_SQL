@@ -1,0 +1,1 @@
+select username, account_status, default_tablespace, created from dba_users where username =  'AARON';

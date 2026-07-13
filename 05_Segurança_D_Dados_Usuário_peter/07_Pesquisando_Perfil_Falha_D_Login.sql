@@ -1,0 +1,1 @@
+select profile, resource_name, limit from dba_profiles where profile = 'CONEXAO' and resource_name = 'FAILED_LOGIN_ATTEMPTS';
